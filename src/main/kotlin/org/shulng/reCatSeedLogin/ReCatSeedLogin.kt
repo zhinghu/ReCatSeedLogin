@@ -1,5 +1,6 @@
 package org.shulng.reCatSeedLogin
 
+import cn.handyplus.lib.adapter.HandySchedulerUtil
 import org.bukkit.plugin.java.JavaPlugin
 
 class ReCatSeedLogin : JavaPlugin() {
