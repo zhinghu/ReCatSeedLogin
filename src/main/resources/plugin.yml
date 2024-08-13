@@ -1,0 +1,5 @@
+name: ReCatSeedLogin
+version: '1.0-SNAPSHOT'
+main: org.shulng.reCatSeedLogin.ReCatSeedLogin
+api-version: '1.18'
+folia-supported: true
