@@ -111,3 +111,11 @@ buildNumber.properties
 
 # Common working directory
 run/
+
+# User
+noUp
+noUp.sh
+noUp.bat
+noUp.cmd
+noUp.vbs
+noUp.js
